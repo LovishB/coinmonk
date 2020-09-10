@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="352" height="370" viewBox="0 0 352 370">
+  <g id="new_logo" data-name="new logo" transform="translate(-5225.912 -1990)">
+    <rect id="Rectangle_144" data-name="Rectangle 144" width="347" height="370" transform="translate(5228.912 1990)" fill="#fff"/>
+    <g id="logo_trans" data-name="logo trans" transform="translate(5228.344 1990)">
+      <g id="Ellipse_24" data-name="Ellipse 24" transform="translate(150.568)" fill="#fff" stroke="#384e66" stroke-width="8">
+        <circle cx="23.5" cy="23.5" r="23.5" stroke="none"/>
+        <circle cx="23.5" cy="23.5" r="19.5" fill="none"/>
+      </g>
+      <g id="Ellipse_25" data-name="Ellipse 25" transform="translate(209.568 34)" fill="#fff" stroke="#384e66" stroke-width="8">
+        <ellipse cx="23.5" cy="23" rx="23.5" ry="23" stroke="none"/>
+        <ellipse cx="23.5" cy="23" rx="19.5" ry="19" fill="none"/>
+      </g>
+      <g id="Ellipse_26" data-name="Ellipse 26" transform="translate(211.568 99)" fill="#fff" stroke="#384e66" stroke-width="8">
+        <circle cx="23.5" cy="23.5" r="23.5" stroke="none"/>
+        <circle cx="23.5" cy="23.5" r="19.5" fill="none"/>
+      </g>
+      <g id="Ellipse_27" data-name="Ellipse 27" transform="translate(152.568 133)" fill="#fff" stroke="#384e66" stroke-width="8">
+        <ellipse cx="23.5" cy="24.5" rx="23.5" ry="24.5" stroke="none"/>
+        <ellipse cx="23.5" cy="24.5" rx="19.5" ry="20.5" fill="none"/>
+      </g>
+      <g id="Ellipse_28" data-name="Ellipse 28" transform="translate(93.568 101)" fill="#fff" stroke="#384e66" stroke-width="8">
+        <ellipse cx="24" cy="23" rx="24" ry="23" stroke="none"/>
+        <ellipse cx="24" cy="23" rx="20" ry="19" fill="none"/>
+      </g>
+      <g id="Ellipse_29" data-name="Ellipse 29" transform="translate(91.568 35)" fill="#fff" stroke="#384e66" stroke-width="8">
+        <ellipse cx="23.5" cy="24" rx="23.5" ry="24" stroke="none"/>
+        <ellipse cx="23.5" cy="24" rx="19.5" ry="20" fill="none"/>
+      </g>
+      <g id="Ellipse_30" data-name="Ellipse 30" transform="translate(288.568 61)" fill="#fff" stroke="#707070" stroke-width="1">
+        <circle cx="1" cy="1" r="1" stroke="none"/>
+        <circle cx="1" cy="1" r="0.5" fill="none"/>
+      </g>
+      <ellipse id="Ellipse_31" data-name="Ellipse 31" cx="8.5" cy="8" rx="8.5" ry="8" transform="translate(153.568 60)" fill="#449cd9"/>
+      <circle id="Ellipse_32" data-name="Ellipse 32" cx="8" cy="8" r="8" transform="translate(177.568 59)" fill="#449cd9"/>
+      <ellipse id="Ellipse_33" data-name="Ellipse 33" cx="8.5" cy="8" rx="8.5" ry="8" transform="translate(189.568 79)" fill="#449cd9"/>
+      <circle id="Ellipse_34" data-name="Ellipse 34" cx="8.5" cy="8.5" r="8.5" transform="translate(178.568 99)" fill="#449cd9"/>
+      <ellipse id="Ellipse_35" data-name="Ellipse 35" cx="8.5" cy="7.5" rx="8.5" ry="7.5" transform="translate(154.568 101)" fill="#449cd9"/>
+      <circle id="Ellipse_36" data-name="Ellipse 36" cx="8" cy="8" r="8" transform="translate(143.568 80)" fill="#449cd9"/>
+      <text id="Algocraft" transform="translate(173.568 257)" fill="#449cd9" stroke="#449cd9" stroke-width="1" font-size="72" font-family="Montserrat-Light, Montserrat" font-weight="300" letter-spacing="0.04em"><tspan x="-174.132" y="0">Algocraft</tspan></text>
+      <text id="Apps" transform="translate(179.568 313)" fill="#384e66" stroke="#384e66" stroke-width="1" font-size="44" font-family="Montserrat-Light, Montserrat" font-weight="300" letter-spacing="0.032em"><tspan x="-57.838" y="0">Apps</tspan></text>
+    </g>
+  </g>
+</svg>
